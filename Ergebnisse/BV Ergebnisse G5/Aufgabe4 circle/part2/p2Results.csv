@@ -1,0 +1,6 @@
+ ,ID,X (pixels),Y (pixels),Radius (pixels),Score,nCircles,Resolution,Frame (slice #),Method
+1, 1, 87,       108,       63,             0.939,  5,      656,      1,              Full
+2, 2, 89,       41,        10,             0.875,  5,      656,      1,              Full
+3, 3, 155,      97,        10,             0.870,  5,      656,      1,              Full
+4, 4, 100,      41,        10,             0.835,  5,      656,      1,              Full
+5, 5, 21,       108,       10,             0.828,  5,      656,      1,              Full

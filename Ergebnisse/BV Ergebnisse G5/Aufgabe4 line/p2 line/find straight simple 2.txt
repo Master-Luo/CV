@@ -1,0 +1,6 @@
+Lines found:
+HoughLine <angle = 1.571, radius = -8.975, xRef = 86.000, yRef = 115.000, count = 133>
+HoughLine <angle = 1.571, radius = -7.853, xRef = 86.000, yRef = 115.000, count = 111>
+HoughLine <angle = 0.000, radius = 0.000, xRef = 86.000, yRef = 115.000, count = 106>
+HoughLine <angle = 1.571, radius = -6.170, xRef = 86.000, yRef = 115.000, count = 100>
+HoughLine <angle = 0.000, radius = 1.122, xRef = 86.000, yRef = 115.000, count = 93>
